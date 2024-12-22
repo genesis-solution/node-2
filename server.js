@@ -4,7 +4,7 @@ const PORT = 3000;
 
 // Root route
 app.get('/', (req, res) => {
-    res.send('Welcome to node 2');
+    res.send('Welcome to NodeJS 2 by Jenkin');
 });
 
 // Start the server
